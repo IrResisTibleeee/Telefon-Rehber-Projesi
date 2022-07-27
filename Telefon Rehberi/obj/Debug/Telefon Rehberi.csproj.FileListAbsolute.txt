@@ -1,0 +1,11 @@
+C:\Users\adem0\source\repos\Telefon Rehberi\Telefon Rehberi\bin\Debug\Telefon Rehberi.exe.config
+C:\Users\adem0\source\repos\Telefon Rehberi\Telefon Rehberi\bin\Debug\Telefon Rehberi.exe
+C:\Users\adem0\source\repos\Telefon Rehberi\Telefon Rehberi\bin\Debug\Telefon Rehberi.pdb
+C:\Users\adem0\source\repos\Telefon Rehberi\Telefon Rehberi\obj\Debug\Telefon Rehberi.csproj.AssemblyReference.cache
+C:\Users\adem0\source\repos\Telefon Rehberi\Telefon Rehberi\obj\Debug\Telefon Rehberi.csproj.SuggestedBindingRedirects.cache
+C:\Users\adem0\source\repos\Telefon Rehberi\Telefon Rehberi\obj\Debug\Telefon_Rehberi.Form1.resources
+C:\Users\adem0\source\repos\Telefon Rehberi\Telefon Rehberi\obj\Debug\Telefon_Rehberi.Properties.Resources.resources
+C:\Users\adem0\source\repos\Telefon Rehberi\Telefon Rehberi\obj\Debug\Telefon Rehberi.csproj.GenerateResource.cache
+C:\Users\adem0\source\repos\Telefon Rehberi\Telefon Rehberi\obj\Debug\Telefon Rehberi.csproj.CoreCompileInputs.cache
+C:\Users\adem0\source\repos\Telefon Rehberi\Telefon Rehberi\obj\Debug\Telefon Rehberi.exe
+C:\Users\adem0\source\repos\Telefon Rehberi\Telefon Rehberi\obj\Debug\Telefon Rehberi.pdb
